@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Quang Trinh;
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkhquang&theme=tokyonight">
+
 [![tkhquang.dev](https://img.shields.io/static/v1?label=tkhquang.dev&message=%20&color=cyan&logo=&style=flat-square&logoColor=white)](https://tkhquang.dev)
 [![me@tkhquang](https://img.shields.io/static/v1?label=me@tkhquang&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:khacquang.trinh@gmail.com)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkhquang&theme=tokyonight">
 
 ```Cargo.toml
 [package]
