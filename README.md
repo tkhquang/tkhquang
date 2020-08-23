@@ -10,10 +10,10 @@ version = "1.0"
 age = "^25.0"
 description = "Software Engineer"
 authors = ["Quang Trinh <khacquang.trinh@gmail.com>"]
-keywords = ["Javascript", "CSS", "Rust", "Lua"]
+keywords = ["Javascript", "CSS", "React", "Vue"]
 
 [dependencies]
-coffee = "black"
+coke = "*"
 doggo = "*"
 football = "*"
 
