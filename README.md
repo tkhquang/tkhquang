@@ -12,7 +12,7 @@ version = "1.0"
 age = "^28.0"
 description = "Software Engineer"
 authors = ["Quang Trinh <khacquang.trinh@gmail.com>"]
-keywords = ["Javascript", "CSS", "React", "Vue"]
+keywords = ["Javascript", "React", "Elixir", "Rust"]
 
 [dependencies]
 coke = "*"
