@@ -9,7 +9,7 @@
 [package]
 name = "tkhquang_self"
 version = "1.0"
-age = "^28.0"
+age = "^29.0"
 description = "Software Engineer"
 authors = ["Quang Trinh <khacquang.trinh@gmail.com>"]
 keywords = ["Javascript", "React", "Elixir", "Rust"]
