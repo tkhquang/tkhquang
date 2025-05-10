@@ -74,4 +74,4 @@ No obligation at all, of course, but your support is super appreciated and keeps
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tkhquang)
 
-Or, if you prefer ko-fi: <https://ko-fi.com/tkhquang>
+<sup>Or, if you prefer ko-fi: <https://ko-fi.com/tkhquang></sup>
