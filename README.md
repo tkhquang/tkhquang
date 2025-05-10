@@ -61,3 +61,15 @@ Recharge:
     # --- Developer's Motto / Parting Thought ---
     # "Shine the UI, x-ray the binary."
 ```
+
+***
+
+**☕ Powering the Next `int $0x13`?**
+
+My dev life often feels a bit like that script: toggling between the `day_op_engage` (making interfaces) and the `night_op_engage` (puzzling over compiled code). And yes, sometimes caffeine levels are indeed critical for that mental context switch!
+
+If you enjoy this "Pixel Crafter, Binary Decoder" approach, find my adventures in frontend or reverse engineering interesting, or just want to support the ongoing quest to "Shine the UI, then x-ray the binary," a virtual coffee is a fantastic way to help fuel the next `Recharge` routine.
+
+No obligation at all, of course, but your support is super appreciated and keeps the tinkering spirit alive!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tkhquang)
