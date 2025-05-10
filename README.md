@@ -73,3 +73,5 @@ If you enjoy this "Pixel Crafter, Binary Decoder" approach, find my adventures i
 No obligation at all, of course, but your support is super appreciated and keeps the tinkering spirit alive!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tkhquang)
+
+Or, if you prefer ko-fi: <https://ko-fi.com/tkhquang>
