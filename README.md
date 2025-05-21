@@ -12,9 +12,9 @@
 
 .section .data
     id_string:      .asciz "Quang | FE Day, RE Night | Age: 30+"
-    day_focus:      .asciz "Day: React, Elixir/Phoenix -> Crafting UIs that sparkle"
+    day_focus:      .asciz "Day: React, Elixir/Phoenix"
     switch_msg:     .asciz "Switching Modes... (Caffeine levels critical)"
-    night_focus:    .asciz "Night: C++, Rust, Ghidra -> Unraveling binary mysteries"
+    night_focus:    .asciz "Night: C++, Rust, Ghidra"
     system_info:    .asciz "OS: Fedora/Windows | Editors: VSCode/Neovim"
     ethos:          .asciz "Ethos: Pixel Crafter, Binary Decoder"
 
