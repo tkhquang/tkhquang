@@ -2,7 +2,7 @@
 
 [![tkhquang.dev](https://img.shields.io/static/v1?label=tkhquang.dev&message=%20&color=cyan&logo=&style=flat-square&logoColor=white)](https://tkhquang.dev)
 [![me@tkhquang](https://img.shields.io/static/v1?label=me@tkhquang&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:khacquang.trinh@gmail.com)
-[![tkhquang](https://komarev.com/ghpvc/?username=tkhquang)](https://github.com/tkhquang)
+[![tkhquang](https://tkhquang.dev/api/pageviews/badge?pathname=https%3A%2F%2Fgithub.com%2Ftkhquang&label=Profile%20views)](https://github.com/tkhquang)
 
 
 ```gas
