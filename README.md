@@ -32,7 +32,7 @@ day_op_engage:
 
     # --- The Flip: Code Twilight Zone ---
     lea switch_msg(%rip), %rdx
-    int $0x13           # The context switch!
+    int $0x13           # BIOS disk read: loading night persona from disk
 
     # --- Night Shift: Binary Deep Dive ---
 night_op_engage:
