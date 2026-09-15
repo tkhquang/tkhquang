@@ -4,15 +4,14 @@
 [![me@tkhquang](https://img.shields.io/static/v1?label=me@tkhquang&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:khacquang.trinh@gmail.com)
 [![tkhquang](https://tkhquang.dev/api/pageviews/badge?pathname=https%3A%2F%2Fgithub.com%2Ftkhquang&label=Profile%20views&v=1)](https://github.com/tkhquang)
 
-
 ```gas
 # -------------------------------------------------------------------
 # Quang's Dual-Core Loader
 # -------------------------------------------------------------------
 
 .section .data
-    id_string:      .asciz "Quang | FE Day, RE Night | Age: 30+"
-    day_focus:      .asciz "Day: React, Elixir/Phoenix"
+    id_string:      .asciz "Quang | Web Day, RE Night | Age: 30+"
+    day_focus:      .asciz "Day: React, Node.js, Elixir/Phoenix"
     switch_msg:     .asciz "Switching Modes... (Caffeine levels critical)"
     night_focus:    .asciz "Night: C++, Rust, Ghidra"
     system_info:    .asciz "OS: Fedora/Windows | Editors: VSCode/Neovim"
@@ -25,7 +24,7 @@ _start:
     # --- Boot: The Dev Persona ---
     lea id_string(%rip), %rdi
 
-    # --- Day Shift: Pixel Perfect ---
+    # --- Day Shift: Shipping Web Apps ---
 day_op_engage:
     lea day_focus(%rip), %rsi
     # call ExecuteDayRoutine
@@ -66,7 +65,7 @@ Recharge:
 
 **☕ Powering the Next `int $0x13`?**
 
-Most of my time is spent either fine-tuning interfaces or reverse-engineering the weird and wonderful bits of software. It's all part of the fun, and fueled by curiosity (and caffeine).
+I build web applications, from the interfaces people use to the APIs and databases behind them. Outside work, I make game mods and reverse-engineer the weird and wonderful bits of software. It's all part of the fun, fueled by curiosity (and caffeine).
 
 If you liked something I made or just want to support the ongoing tinkering, a virtual coffee is always appreciated!
 
