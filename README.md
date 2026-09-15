@@ -65,7 +65,7 @@ Recharge:
 
 **☕ Powering the Next `int $0x13`?**
 
-I build web applications, from the interfaces people use to the APIs and databases behind them. Outside work, I make game mods and reverse-engineer the weird and wonderful bits of software. It's all part of the fun, fueled by curiosity (and caffeine).
+Most of my time is spent either fine-tuning web apps or reverse-engineering the weird and wonderful bits of software. It's all part of the fun, and fueled by curiosity (and caffeine).
 
 If you liked something I made or just want to support the ongoing tinkering, a virtual coffee is always appreciated!
 
